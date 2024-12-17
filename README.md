@@ -2,6 +2,10 @@
 
 A simple theme change application built with **React** and **Vite**, using the **Context API** to manage and toggle themes seamlessly.
 
+![image alt](https://github.com/raj036/Theme-changing/blob/e14b7545a59275bad8201f2759f83d55bab1dcae/public/light.png)
+##
+![image alt](https://github.com/raj036/Theme-changing/blob/e14b7545a59275bad8201f2759f83d55bab1dcae/public/dark.png)
+
 ## Features
 
 - **Dynamic Theme Switching**: Toggle between light and dark themes with ease.
